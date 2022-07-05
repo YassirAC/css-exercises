@@ -1,0 +1,23 @@
+body{
+    background-color:beige
+}
+
+p {
+    background-color: #ff80b3;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.section-2{
+    color: #1aa3ff;
+    font-size: 36px;
+}
+
+.section-3{
+    font-size: 24px;
+}
+
+.section-4{
+    background-color: #80ffaa;
+    font-size: 24px;
+    font-weight: bold;
+}
